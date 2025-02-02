@@ -51,6 +51,7 @@ Steps:
     4. generate random employee firstname ,lastname and id and click on save.
 
     5. assert if the name added is matching with the randomly generated firstname and lastname.
+    
     6. if assert is false it will capture the screanshot of the problem. 
 
 3. Checking adding candidate functionality using randomly selected vacancies from dynamic list
@@ -70,6 +71,7 @@ Steps:
     6. enter a contact no and tha date of application and click on save.
 
     7. assert if the name added is matching with the randomly generated firstname and lastname.
+    
     8. if assert is false it will capture the screanshot of the problem. 
    
 ## Usage/Examples
