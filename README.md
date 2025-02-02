@@ -1,7 +1,7 @@
 
 OrangeHRM
 
-Automated diffrent test scenarios using Selenium Webdriver with Python Hybrid Framework on OrangeHRM Demo
+Automated different test scenarios using Selenium Webdriver with Python Hybrid Framework on OrangeHRM Demo
 
 
 ## Features
