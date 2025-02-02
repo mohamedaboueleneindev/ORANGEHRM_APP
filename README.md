@@ -1,5 +1,5 @@
 Test Scenarios:
-1. Checking login functionality using diffrent Credentials from an excel file
+1. Checking login functionality using diffrent Credentials from an excel file.
     Steps:
            1.open login page.
            2.load from excell diffrent credintials.
