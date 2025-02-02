@@ -1,5 +1,6 @@
 Test Scenarios:
 1. Checking login functionality using diffrent Credentials from an excel file.
+
     Steps:
            1.open login page.
            2.load from excell diffrent credintials.
@@ -8,6 +9,7 @@ Test Scenarios:
            5.assert if all test passed as expected or not.
            
 2. Checking adding employee functionality using randomly generated names.
+   
      Steps:
            1.open login page
            2.login using the correct Credentials from config.ini.
@@ -16,6 +18,7 @@ Test Scenarios:
            5.assert if the name added is matching with the randomly generated firstname and lastname.
 
 3. Checking adding candidate functionality using randomly selected vacancies from dynamic list
+   
     Steps:
            1.open login page
            2.login using the correct Credentials from config.ini.
